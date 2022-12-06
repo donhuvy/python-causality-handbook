@@ -1,5 +1,7 @@
 # Causal Inference for The Brave and True
 
+https://learning.oreilly.com/library/view/causal-inference-in/9781098140243/
+
 ![img](./causal-inference-for-the-brave-and-true/data/img/brave-and-true.png)
 
 [![DOI](https://zenodo.org/badge/255903310.svg)](https://zenodo.org/badge/latestdoi/255903310)
